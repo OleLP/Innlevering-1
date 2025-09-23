@@ -28,7 +28,4 @@ Deltakere: Kommunal administrasjon, politisk ledelse, fagspesialister og brukerr
 -   Strategier og eventuelle tidligere arbeid som danner grunnlaget
     
 -   Tidsramme og budsjett
-    
--   Strategier og eventuelle tidligere arbeid som danner grunnlaget
-    
--   Tidsramme og budsjett
+
