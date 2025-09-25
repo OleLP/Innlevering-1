@@ -132,7 +132,7 @@ Ved å integrere slike relasjonelle elementer i mandatet og samhandlingsavtalene
   ## Oppgave4
 
 ## Konflikthåndtering/ Proaktive mekanismer for konflikthåndtering
-## Teambuilding som proaktiv mekanisme
+ Teambuilding som proaktiv mekanisme
 
 Teambuilding kan fungere som en forebyggende strategi mot konflikter i grupper. Når medlemmene blir bedre kjent og bygger tillit, skapes et grunnlag for åpen kommunikasjon og større forståelse. Dette gjør det lettere å dele ideer, løse misforståelser og unngå at små uenigheter utvikler seg til større problemer.
 
