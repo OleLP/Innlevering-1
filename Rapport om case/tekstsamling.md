@@ -155,7 +155,7 @@ Hvis enighet da ikke oppnås
 Beslutningshierarki: Klart hvem som bestemmer på hvilke nivåer (team, prosjektleder, styringsgruppe, nøytral tredjepart). Regel for når konsensus mangler: F.eks. demokratisk flertall, eller at prosjektleder tar siste avgjørelse. Meklingsordning: En intern eller ekstern megler kan tilkalles tidlig hvis saken blir vanskelig.
 
 
-Oppgave 6
+Oppgave 6:
 **Sikring av god og effektiv kommunikasjon i prosjektteamet**
 
 God kommunikasjon er avgjørende for å lykkes med komplekse og tverrfaglige prosjekter, særlig når teamet består av personer med ulik faglig bakgrunn, ulike interesser og til dels forskjellige organisatoriske tilknytninger. For Erling, som leder et heterogent team i utviklingen av en ny digital medborgerportal, blir det derfor helt sentralt å etablere gode kommunikasjonsrutiner og fremme en kultur preget av åpenhet, tydelighet og samarbeid.
