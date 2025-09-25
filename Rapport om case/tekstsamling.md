@@ -104,7 +104,7 @@ Den/de som er uenig, tar det først opp med teamet, så med prosjektleder hvis d
 - **Regel for når konsensus mangler:** F.eks. demokratisk flertall, eller at prosjektleder tar siste avgjørelse.
 - **Meklingsordning:** En intern eller ekstern megler kan tilkalles tidlig hvis saken blir vanskelig.
 
-### Håndtering av tidspress og planleggingsfellen
+## Oppgave 5: Håndtering av tidspress og planleggingsfellen
 
 Prosjekter i tidlig fase preges ofte av høy usikkerhet, siden krav, rammer og mulige løsninger ikke er fullt ut definert. Dette kan skape et press mot tidlig detaljplanlegging og føre til at teamet binder seg til antakelser som senere viser seg å være feil. Lederen må derfor skjerme teamet fra dette tidspresset og rette oppmerksomheten mot hovedmål og rammer fremfor tekniske detaljer.
 
