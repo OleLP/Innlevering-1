@@ -97,5 +97,32 @@ Deltakere: Kommunal administrasjon, politisk ledelse, fagspesialister og brukerr
 -   Oppsummering av viktige beslutninger og avklaringer
     
 -   Hva som skjer etter møtet (etablering av samarbeidsverktøy, møter og oppfølging, informasjon, etc.)
-    
+
+
+
+
+
+  Oppgave4
+Konflikthåndtering/ Proaktive mekanismer for konflikthåndtering
+Teambuilding som proaktiv mekanisme
+
+Teambuilding kan fungere som en forebyggende strategi mot konflikter i grupper. Når medlemmene blir bedre kjent og bygger tillit, skapes et grunnlag for åpen kommunikasjon og større forståelse. Dette gjør det lettere å dele ideer, løse misforståelser og unngå at små uenigheter utvikler seg til større problemer.
+
+Styrket kommunikasjon og samhold bidrar samtidig til bedre samarbeid og økt effektivitet. Når teamet opplever trivsel og trygghet, øker også motivasjonen og viljen til å bidra. Teambuilding gir dermed både et mer robust arbeidsmiljø og bedre forutsetninger for å håndtere utfordringer på en konstruktiv måte.
+
+Snakk om å ta opp mulige problemer tidlig “Nip it in the bud”
+
+Klar rollefordeling: Hvem gjør hva – avtales og skrives ned i starten. Hvem tar prosjektleder rollen? Klare forventninger og mål: Alle vet hva som forventes i forhold til oppgaver og oppmøte. Dette følges opp av prosjektleder (Erling) Kartlegg risikoer: F.eks. uenighet om ansvar, ressurser, tidsfrister, møterom/rom, bruk mm. Klare avtaler om kommunikasjonsmåte: Bestem hvordan dere deler dokumenter og prater sammen utenfor møter (Google Docs, Discord, e-post mm).
+
+Jevnlige møteplasser og kommunikasjonskanaler for å prate og lufte bekymringer
+
+Når det holdes møter, sett av tid for bekymringer/ uenigheter. Alle bekymringer blir mottatt, store som små. Alle får mulighet til å si noe om hvordan de opplever at samarbeidet fungerer. Fokus på sak og ikke på person. Regelmessig spørreundersøkelse (som avtalt) med skala for tilbakemelding om hvor bra/ikke bra samarbeidet oppleves. Gjerne forslag til forbedringer. Kan være anonymt.
+
+Hvordan løse konflikter hvis/når de dukker opp
+
+Den/de som er uenig, tar det først opp med teamet, så med prosjektleder hvis det ikke blir enighet. Prosjektleder (Erling) organiserer en saklig samtale på neste felles møte der fokuset er på problemet, ikke på personen. Hvis saken ikke løses, bringes den videre til neste instans i hierarkiet som en styringsgruppe eller en nøytral tredjepart.
+
+Hvis enighet da ikke oppnås
+
+Beslutningshierarki: Klart hvem som bestemmer på hvilke nivåer (team, prosjektleder, styringsgruppe, nøytral tredjepart). Regel for når konsensus mangler: F.eks. demokratisk flertall, eller at prosjektleder tar siste avgjørelse. Meklingsordning: En intern eller ekstern megler kan tilkalles tidlig hvis saken blir vanskelig.
 -   Spørsmål?
