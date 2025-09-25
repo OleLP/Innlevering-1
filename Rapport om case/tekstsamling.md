@@ -29,3 +29,59 @@ Deltakere: Kommunal administrasjon, politisk ledelse, fagspesialister og brukerr
     
 -   Tidsramme og budsjett
 
+
+
+
+## 3. Rolleavklaring og ansvar (30 min)
+
+-   Gjennomgang av hvem som har ansvar for hva, visuell oversikt ved bruk av prosjektorganisering
+    
+-   Forventninger og arbeidsfordeling av de forskjellige rollene i prosjektet
+    
+-   Avklaringer, spørsmål og diskusjon for å sikre felles forståelse
+    
+
+  
+
+## 4. Pause (15 min)
+
+-   Uformell mingling, lett snacks og drikke, brukes bevisst for å bli kjent og bygge tillit
+    
+
+  
+
+## 5. Kommunikasjon og samhandling (20 min)
+
+-   Møteplan og rapporteringsstruktur
+    
+-   Bruk av samhandlingsverktøy (teams, zoom, etc)
+    
+-   Rutiner for dokumentasjon og versjonskontroll
+    
+
+  
+
+## 6. Forventninger og utfordringer (20 min)
+
+-   Forventninger av hverandre og prosjektets gang
+    
+-   Hovedrisikofaktorer (tid, ressurser, etc.)
+    
+-   Kontroll og oppfølging av prosjekter
+    
+## 7.  Teamaktivitet / pseudo-arbeid (30 min)
+
+-   Lett uformell teamøvelse gjerne åpen for latter og letthet som involverer alle
+    
+-   Eksempler på dette kan være kahoot eller annen form for quiz eller spill, “post-it-øvelse” hvor vi skriver ned forventninger til prosjektet og deler i plenum
+    
+
+  
+
+## 8. Oppsummering, avslutning og veien videre (20 min)
+
+-   Oppsummering av viktige beslutninger og avklaringer
+    
+-   Hva som skjer etter møtet (etablering av samarbeidsverktøy, møter og oppfølging, informasjon, etc.)
+    
+-   Spørsmål?
