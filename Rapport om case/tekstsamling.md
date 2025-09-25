@@ -98,6 +98,10 @@ Deltakere: Kommunal administrasjon, politisk ledelse, fagspesialister og brukerr
     
 -   Hva som skjer etter møtet (etablering av samarbeidsverktøy, møter og oppfølging, informasjon, etc.)
 
+-   Spørsmål?
+
+
+
 
 
 
@@ -125,4 +129,4 @@ Den/de som er uenig, tar det først opp med teamet, så med prosjektleder hvis d
 Hvis enighet da ikke oppnås
 
 Beslutningshierarki: Klart hvem som bestemmer på hvilke nivåer (team, prosjektleder, styringsgruppe, nøytral tredjepart). Regel for når konsensus mangler: F.eks. demokratisk flertall, eller at prosjektleder tar siste avgjørelse. Meklingsordning: En intern eller ekstern megler kan tilkalles tidlig hvis saken blir vanskelig.
--   Spørsmål?
+
