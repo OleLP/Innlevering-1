@@ -154,8 +154,18 @@ Hvis enighet da ikke oppnås
 
 Beslutningshierarki: Klart hvem som bestemmer på hvilke nivåer (team, prosjektleder, styringsgruppe, nøytral tredjepart). Regel for når konsensus mangler: F.eks. demokratisk flertall, eller at prosjektleder tar siste avgjørelse. Meklingsordning: En intern eller ekstern megler kan tilkalles tidlig hvis saken blir vanskelig.
 
+  ## Håndtering av tidspress og planleggingsfellen
+  
+Prosjekter i tidlig fase preges ofte av høy usikkerhet, siden krav, rammer og mulige løsninger ikke er fullt ut definert. Dette kan skape et press mot tidlig detaljplanlegging og føre til at teamet binder seg til antakelser som senere viser seg å være feil. Lederen må derfor skjerme teamet fra dette tidspresset og rette oppmerksomheten mot hovedmål og rammer fremfor tekniske detaljer.
 
-Oppgave 6:
+For å realisere dette i praksis bør prosjektet benytte rullerende planlegging og korte iterasjoner. Definer klare milepæler og et målbilde, fyll inn detaljene etter hvert som usikkerheten reduseres, og bruk beslutningsporter med tydelige kriterier for når større valg skal tas. Systematiske usikkerhetsanalyser synliggjør risikoområder og gjør det mulig å planlegge buffere og alternative løsninger, og en åpen teamkultur som belønner rask rapportering av endrede forutsetninger gjør planen til et styringsverktøy fremfor en ufravikelig kontrakt, noe som også gjør det lettere å møte interessenters forventninger uten å gi falsk sikkerhet.
+
+Derfor bør man håndtere interessentpress ved å kommunisere usikkerhet direkte og presentere flere scenarier i stedet for å gi inntrykk av trygghet gjennom tidlig detaljplanlegging. Praktiske teknikker som støtter denne tilnærmingen er timeboxing, scenarioplanlegging, usikkerhetsanalyser og beslutningsporter. Timeboxing betyr å gi en aktivitet en fast tidsramme, for eksempel 30 minutter, én dag eller én sprint, og arbeide målrettet innenfor den; dersom oppgaven ikke blir fullført innen timeboxen, reduseres omfanget eller arbeidet fortsettes i en ny timebox (Project Management Institute, 2022).
+
+Sammen gir disse prinsippene og teknikkene et rammeverk for å balansere behovet for trygghet og behovet for fleksibilitet. Ved å prioritere hovedmål og rammer fremfor tidlig detaljering, kombinere rullerende planlegging med beslutningsporter og usikkerhetsanalyser, og bruke konkrete metoder som timeboxing, kan et prosjekt bevare fleksibiliteten, redusere risikoen for å låse seg til feil løsninger og samtidig oppnå mer forutsigbar fremdrift under tidspress.
+
+
+  ## Oppgave 6:
 **Sikring av god og effektiv kommunikasjon i prosjektteamet**
 
 God kommunikasjon er avgjørende for å lykkes med komplekse og tverrfaglige prosjekter, særlig når teamet består av personer med ulik faglig bakgrunn, ulike interesser og til dels forskjellige organisatoriske tilknytninger. For Erling, som leder et heterogent team i utviklingen av en ny digital medborgerportal, blir det derfor helt sentralt å etablere gode kommunikasjonsrutiner og fremme en kultur preget av åpenhet, tydelighet og samarbeid.
@@ -171,3 +181,8 @@ Det er også viktig å være bevisst på de menneskelige relasjonene i teamet. I
 Til slutt må all viktig informasjon dokumenteres og deles på en systematisk måte. Det sikrer kontinuitet, oversikt og transparens både internt i prosjektteamet og ut mot eksterne interessenter. Etablering av en felles kunnskapsbase, for eksempel i SharePoint eller Teams, der man samler referater, planer og beslutninger, er et konkret og enkelt grep som kan få stor betydning for prosjektets fremdrift og kvalitet.
 
 Sammenfattet kan man si at god kommunikasjon i dette prosjektet handler om mer enn tekniske løsninger og møtefrekvens det handler om å bygge en felles kultur for samhandling. Som prosjektleder må Erling være både tydelig og lyttende, strukturert og fleksibel, og hele tiden ha blikk for hvordan kommunikasjonen påvirker både relasjoner, beslutningsprosesser og fremdrift. Lykkes han med det, vil det gi prosjektet et solid fundament for å nå målene om økt innbyggerengasjement og større transparens i kommunens arbeid.
+
+
+### Litteratur
+
+Project Management Institute. (2022, November). *The objective of timeboxing*. PMI: Disciplined Agile. https://www.pmi.org/disciplined-agile/the-objective-of-time-boxin
