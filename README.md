@@ -1,2 +1,5 @@
-# Innlevering-1
-Markdown-fil av rapporten
+# Strategi for rekruttering og sammensetning (del 2)
+
+For å bygge tidlig tillit uten å miste bredden som trengs for innovasjon, bør Erling søke moderat sosial og demografisk likhet i noen få dimensjoner, som felles forståelse for kommunal kontekst, ansvar overfor innbyggerne og erfaring med tverrfaglig samarbeid, samtidig som faglig bakgrunn og perspektiver bevisst varieres. Dette gir et felles språk og tydelige forventninger tidlig, samtidig som teamet beholder kognitiv variasjon som fanger opp risiko og muligheter. Praktisk bør rekrutteringen prioritere kandidater med delt motivasjon for samfunnsoppdraget, men med forskjellig kompetanse innen teknologi, tjenestedesign, informasjonssikkerhet, politikk, saksbehandling og brukerinnsikt.
+
+I de første ukene behøves et tydelig teamcharter som samler mål, roller, beslutningsregler, møtefrekvens, etablerte arbeidsprinsipper for smidig utvikling med felles definisjoner av klar for utvikling og ferdig, en felles onboarding som dekker lovverk, personvern, universell utforming og sikkerhetskrav, samt en måleplan knyttet til hovedmålene med definerte indikatorer, datakilder og baseline. En tidlig og bevisst plan for bemanning og samhandling reduserer friksjon, forebygger forsinkelser og budsjettglipp, og øker sannsynligheten for at portalen leverer målbar samfunnseffekt innenfor tid og kostnad.
