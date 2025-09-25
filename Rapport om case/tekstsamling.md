@@ -1,6 +1,7 @@
 # Gruppebidrag
 Her kan alle legge til tekst.
 
+## Oppgave 1
 ## Strategi for rekruttering og sammensetting
 For å lykkes i forming fasen må Erling rekruttere folk som er villig til å jobbe og etablere et team som både har nødvendig mangfold og lager god tillit i teamet. Målet er å skape et team som kan levere en portal som øker innbyggerengasjement og transparens med 20 % første året innen 15 måneder og 8 millioner kroner budsjett. Rekrutteringen bør ta utgangspunkt i noen viktige ting som for eksempel: produksjon, administrasjon, integrasjon for samarbeid mellom fagmiljøer og brukere, og entreprenørskap og verdiskaping. Disse funksjonene kan fylles av eksisterende ressurser og utvalgte spesialister, men rollene må beskrives klart før oppstart med tydelige mandat, ansvar og leveranser.
 
