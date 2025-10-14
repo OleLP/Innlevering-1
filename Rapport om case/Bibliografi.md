@@ -1,5 +1,11 @@
 # Bibliografi
 
+Idebanken.org (u.å.) Konflikthåndtering
+https://www.idebanken.org/innsikt/artikler/konflikthandtering
+
+Statens arbeidsmiljøinstitutt. Konflikter på arbeidsplassen
+https://stami.no/arbeid-og-helse/konflikter-pa-arbeidsplassen-%E2%88%92-hvordan-handterer-vi-dem/
+
 Rasmussen, E. (2023). Hentet fra NTNUOPEN: https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3096213/no.ntnu%3Ainspera%3A148661876%3A22262056.pdf?isAllowed=y&sequence=1&utm_source=chatgpt.com
 
 Wibe, I. (u.d.).  _NTNU_. Hentet fra https://www.ntnu.no/documents/1268850643/1269328686/Effektiv+kommunikasjon+i+ledelse+av++team+eller+nettverk+-+Ingrid+Wibe.pdf/5b93e473-9a6f-4515-a155-80bfb8cfa362
