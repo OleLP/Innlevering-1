@@ -100,10 +100,12 @@ Styrket kommunikasjon og samhold bidrar samtidig til bedre samarbeid og økt eff
 Når det holdes møter, sett av tid for bekymringer/ uenigheter. Alle bekymringer blir mottatt, store som små. Alle får mulighet til å si noe om hvordan de opplever at samarbeidet fungerer. Fokus på sak og ikke på person. Regelmessig spørreundersøkelse (som avtalt) med skala for tilbakemelding om hvor bra/ikke bra samarbeidet oppleves. Gjerne forslag til forbedringer. Kan være anonymt.
 (https://www.idebanken.org/kloke-grep/artikler/aktiv-lytting-og-hvordan-ta-imot-kritikk#:~:text=I%20en%20konflikth%C3%A5ndteringssamtale%20er%20det%20viktig%20at%20partene%20lytter%20til%20hverandre%20uten%20%C3%A5%20avbryte%20og%20forsvare%20seg)
 
-### Hvordan løse konflikter hvis/når de dukker opp (https://www.idebanken.org/kloke-grep/artikler/handtering-av-faglig-uenighet-og-ressurssporsmal) 
+### Hvordan løse konflikter hvis/når de dukker opp 
+(https://www.idebanken.org/kloke-grep/artikler/handtering-av-faglig-uenighet-og-ressurssporsmal) 
 
 Den/de som er uenig, tar det først opp med teamet, så med prosjektleder hvis det ikke blir enighet. Prosjektleder (Erling) organiserer en saklig samtale på neste felles møte der fokuset er på problemet, ikke på personen. 
 (https://www.idebanken.org/kloke-grep/artikler/samtale-om-hva-som-er-arsaken) 
+
 Hvis saken ikke løses, bringes den videre til neste instans i hierarkiet som en styringsgruppe eller en nøytral tredjepart. (https://www.idebanken.org/innsikt/artikler/konflikthandtering#:~:text=S%C3%B8k%20hjelp%20hvis%20det%20er%20tvil)
 
 ### Hvis enighet da ikke oppnås
