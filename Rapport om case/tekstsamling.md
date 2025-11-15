@@ -102,7 +102,8 @@ Når det holdes møter, sett av tid for bekymringer/ uenigheter. Alle bekymringe
 
 ### Hvordan løse konflikter hvis/når de dukker opp (https://www.idebanken.org/kloke-grep/artikler/handtering-av-faglig-uenighet-og-ressurssporsmal) 
 
-Den/de som er uenig, tar det først opp med teamet, så med prosjektleder hvis det ikke blir enighet. Prosjektleder (Erling) organiserer en saklig samtale på neste felles møte der fokuset er på problemet, ikke på personen. (https://www.idebanken.org/kloke-grep/artikler/samtale-om-hva-som-er-arsaken) 
+Den/de som er uenig, tar det først opp med teamet, så med prosjektleder hvis det ikke blir enighet. Prosjektleder (Erling) organiserer en saklig samtale på neste felles møte der fokuset er på problemet, ikke på personen. 
+(https://www.idebanken.org/kloke-grep/artikler/samtale-om-hva-som-er-arsaken) 
 Hvis saken ikke løses, bringes den videre til neste instans i hierarkiet som en styringsgruppe eller en nøytral tredjepart. (https://www.idebanken.org/innsikt/artikler/konflikthandtering#:~:text=S%C3%B8k%20hjelp%20hvis%20det%20er%20tvil)
 
 ### Hvis enighet da ikke oppnås
