@@ -119,7 +119,7 @@ Hvis saken ikke løses, bringes den videre til neste instans i hierarkiet som en
 - **Regel for når konsensus mangler:** F.eks. demokratisk flertall, eller at prosjektleder tar siste avgjørelse.
 - **Meklingsordning:** En intern eller ekstern megler kan tilkalles tidlig hvis saken blir vanskelig.
 
-  Idebanken.org (u.å.) Konflikthåndtering https://www.idebanken.org/innsikt/artikler/konflikthandtering
+Idebanken.org (u.å.) Konflikthåndtering. Hentet fra https://www.idebanken.org/innsikt/artikler/konflikthandtering
   
 
 ## Oppgave 5: Håndtering av tidspress og planleggingsfellen
