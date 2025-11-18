@@ -84,6 +84,12 @@ For å sikre godt samarbeid i et tverrfaglig prosjekt som Erling sitt, er det vi
 
 Ved å integrere slike relasjonelle elementer i mandatet og samhandlingsavtalene, vil prosjektlederen ha et mer robust fundament for å bygge tillit, forebygge misforståelser og sikre fremdrift også i krevende faser av prosjektet.
 
+Jørgensen, M. (2019). Hva kjennetegner IT-utvikling som lykkes? SimulaMet / OsloMet. Hentet fra Jørgensen, M. (2019). Hva kjennetegner IT-utvikling som lykkes? SimulaMet / OsloMet.
+https://web-backend.simula.no/sites/default/files/publications/files/jorgensen-helsediroct2019-v2.pdf
+
+Sande, J. B., Abrahamsen, M. H., & Wathne, K. H. (2022). Relasjonskontrakter i offentlige anskaffelser på e-helsefeltet. Direktoratet for e-helse.
+https://www.helsedirektoratet.no/rapporter/relasjonskontrakter-i-offentlige-anskaffelser-pa-e-helsefeltet/Relasjonskontrakter%20i%20offentlige%20anskaffelser%20p%C3%A5%20e-helsefeltet_v12_191222.pdf
+
 ## Oppgave 4: Konflikthåndtering/ Proaktive mekanismer for konflikthåndtering
 
 ### Teambuilding som proaktiv mekanisme
