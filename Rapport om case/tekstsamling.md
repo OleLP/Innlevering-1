@@ -138,7 +138,9 @@ Det er også viktig å være bevisst på de menneskelige relasjonene i teamet. I
 
 Til slutt må all viktig informasjon dokumenteres og deles på en systematisk måte. Det sikrer kontinuitet, oversikt og transparens både internt i prosjektteamet og ut mot eksterne interessenter. Etablering av en felles kunnskapsbase, for eksempel i SharePoint eller Teams, der man samler referater, planer og beslutninger, er et konkret og enkelt grep som kan få stor betydning for prosjektets fremdrift og kvalitet.
 
-Sammenfattet kan man si at god kommunikasjon i dette prosjektet handler om mer enn tekniske løsninger og møtefrekvens det handler om å bygge en felles kultur for samhandling. Som prosjektleder må Erling være både tydelig og lyttende, strukturert og fleksibel, og hele tiden ha blikk for hvordan kommunikasjonen påvirker både relasjoner, beslutningsprosesser og fremdrift. Lykkes han med det, vil det gi prosjektet et solid fundament for å nå målene om økt innbyggerengasjement og større transparens i kommunens arbeid.
+Sammenfattet kan man si at god kommunikasjon i dette prosjektet handler om mer enn tekniske løsninger og møtefrekvens det handler om å bygge en felles kultur for samhandling. Som prosjektleder må Erling være både tydelig og lyttende, strukturert og fleksibel, og hele tiden ha blikk for hvordan kommunikasjonen påvirker både relasjoner, beslutningsprosesser og fremdrift. Lykkes han med det, vil det gi prosjektet et solid fundament for å nå målene om økt innbyggerengasjement og større transparens i kommunens arbeid. 
+
+Wibe, I. (u.d.). NTNU. Hentet fra https://www.ntnu.no/documents/1268850643/1269328686/Effektiv+kommunikasjon+i+ledelse+av++team+eller+nettverk+-+Ingrid+Wibe.pdf/5b93e473-9a6f-4515-a155-80bfb8cfa362
 
 ### Litteratur
 
