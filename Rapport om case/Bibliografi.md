@@ -1,5 +1,7 @@
 # Bibliografi
 
+Jørgensen, M. (2019). Hva kjennetegner IT-utvikling som lykkes? SimulaMet / OsloMet. Hentet fra Jørgensen, M. (2019). Hva kjennetegner IT-utvikling som lykkes? SimulaMet / OsloMet. https://web-backend.simula.no/sites/default/files/publications/files/jorgensen-helsediroct2019-v2.pdf
+
 Idebanken.org (u.å.) Konflikthåndtering
 https://www.idebanken.org/innsikt/artikler/konflikthandtering
 
