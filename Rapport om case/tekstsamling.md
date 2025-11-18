@@ -17,6 +17,7 @@ I de første ukene behøves et tydelig teamcharter som samler mål, roller, besl
 ## Oppgave 2: Design av “det første møtet”
 
 Det første møtet i et prosjekt er ekstremt viktig, det setter retningen, tonen og forventningene for hele prosjektet. Et godt første møte vil bygge tillit, momentum og god kommunikasjon fremover. I “det første møtet” vil vi legge til rette for relasjonsbygging, samtidig som vi skaper en felles forståelse av prosjektets mål, arbeidsfordeling og planlagte aktiviteter. Målet med dette møtet er å motivere teamet, etablere et godt samarbeid og å sikre en sterk start på prosjektet med en felles drivkraft.
+(https://prosjektledelse.org/maler-og-verktoy3/prosjektoppstart/)
 
 **Varighet:** 2-3 timer  
 **Deltakere:** Kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter
@@ -56,6 +57,8 @@ Det første møtet i et prosjekt er ekstremt viktig, det setter retningen, tonen
 - Oppsummering av viktige beslutninger og avklaringer
 - Hva som skjer etter møtet (etablering av samarbeidsverktøy, møter og oppfølging, informasjon, etc.)
 - Spørsmål?
+
+(https://www.canva.com/learn/how-to-run-a-project-kickoff-meeting/)
 
 ## Oppgave 3: Rammer for relasjonelle kontrakter
 
