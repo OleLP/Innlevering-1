@@ -1,14 +1,16 @@
 # Bibliografi
 
+Sande, J. B., Abrahamsen, M. H., & Wathne, K. H. (2022). Relasjonskontrakter i offentlige anskaffelser på e-helsefeltet. Direktoratet for e-helse. https://www.helsedirektoratet.no/rapporter/relasjonskontrakter-i-offentlige-anskaffelser-pa-e-helsefeltet/Relasjonskontrakter%20i%20offentlige%20anskaffelser%20p%C3%A5%20e-helsefeltet_v12_191222.pdf
+
 Jørgensen, M. (2019). Hva kjennetegner IT-utvikling som lykkes? SimulaMet / OsloMet. Hentet fra Jørgensen, M. (2019). Hva kjennetegner IT-utvikling som lykkes? SimulaMet / OsloMet. https://web-backend.simula.no/sites/default/files/publications/files/jorgensen-helsediroct2019-v2.pdf
 
 Idebanken.org (u.å.) Konflikthåndtering
 https://www.idebanken.org/innsikt/artikler/konflikthandtering
 
-Edmondson, A. C. (2012). Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge Economy. Jossey-Bass.
-
 Statens arbeidsmiljøinstitutt. Konflikter på arbeidsplassen
 https://stami.no/arbeid-og-helse/konflikter-pa-arbeidsplassen-%E2%88%92-hvordan-handterer-vi-dem/
+
+Edmondson, A. C. (2012). Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge Economy. Jossey-Bass.
 
 Rasmussen, E. (2023). Hentet fra NTNUOPEN: https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3096213/no.ntnu%3Ainspera%3A148661876%3A22262056.pdf?isAllowed=y&sequence=1&utm_source=chatgpt.com
 
