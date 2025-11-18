@@ -14,6 +14,8 @@ For å bygge tidlig tillit uten å miste bredden som trengs for innovasjon, bør
 
 I de første ukene behøves et tydelig teamcharter som samler mål, roller, beslutningsregler, møtefrekvens, etablerte arbeidsprinsipper for smidig utvikling med felles definisjoner av klar for utvikling og ferdig, en felles onboarding som dekker lovverk, personvern, universell utforming og sikkerhetskrav, samt en måleplan knyttet til hovedmålene med definerte indikatorer, datakilder og baseline. En tidlig og bevisst plan for bemanning og samhandling reduserer friksjon, forebygger forsinkelser og budsjettglipp, og øker sannsynligheten for at portalen leverer målbar samfunnseffekt innenfor tid og kostnad.
 
+Edmondson, A. C. (2012). Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge Economy. Jossey-Bass.
+
 ## Oppgave 2: Design av “det første møtet”
 
 Det første møtet i et prosjekt er ekstremt viktig, det setter retningen, tonen og forventningene for hele prosjektet. Et godt første møte vil bygge tillit, momentum og god kommunikasjon fremover. I “det første møtet” vil vi legge til rette for relasjonsbygging, samtidig som vi skaper en felles forståelse av prosjektets mål, arbeidsfordeling og planlagte aktiviteter. Målet med dette møtet er å motivere teamet, etablere et godt samarbeid og å sikre en sterk start på prosjektet med en felles drivkraft.
