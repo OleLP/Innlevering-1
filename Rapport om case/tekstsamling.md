@@ -19,7 +19,7 @@ Edmondson, A. C. (2012). Teaming: How Organizations Learn, Innovate, and Compete
 ## Oppgave 2: Design av “det første møtet”
 
 Det første møtet i et prosjekt er ekstremt viktig, det setter retningen, tonen og forventningene for hele prosjektet. Et godt første møte vil bygge tillit, momentum og god kommunikasjon fremover. I “det første møtet” vil vi legge til rette for relasjonsbygging, samtidig som vi skaper en felles forståelse av prosjektets mål, arbeidsfordeling og planlagte aktiviteter. Målet med dette møtet er å motivere teamet, etablere et godt samarbeid og å sikre en sterk start på prosjektet med en felles drivkraft.
-Norsk forening for prosjektledelse https://prosjektledelse.org/maler-og-verktoy3/prosjektoppstart/)
+(Norsk forening for prosjektledelse https://prosjektledelse.org/maler-og-verktoy3/prosjektoppstart/)
 
 **Varighet:** 2-3 timer  
 **Deltakere:** Kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter
