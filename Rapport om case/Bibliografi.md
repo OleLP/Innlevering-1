@@ -3,6 +3,8 @@
 Idebanken.org (u.å.) Konflikthåndtering
 https://www.idebanken.org/innsikt/artikler/konflikthandtering
 
+Edmondson, A. C. (2012). Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge Economy. Jossey-Bass.
+
 Statens arbeidsmiljøinstitutt. Konflikter på arbeidsplassen
 https://stami.no/arbeid-og-helse/konflikter-pa-arbeidsplassen-%E2%88%92-hvordan-handterer-vi-dem/
 
