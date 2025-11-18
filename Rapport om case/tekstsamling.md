@@ -120,6 +120,7 @@ Hvis saken ikke løses, bringes den videre til neste instans i hierarkiet som en
 - **Meklingsordning:** En intern eller ekstern megler kan tilkalles tidlig hvis saken blir vanskelig.
 
 Idebanken.org (u.å.) Konflikthåndtering. Hentet fra https://www.idebanken.org/innsikt/artikler/konflikthandtering
+Statens arbeidsmiljøinstitutt (u.å). Konflikter på arbeidsplassen https://stami.no/arbeid-og-helse/konflikter-pa-arbeidsplassen-%E2%88%92-hvordan-handterer-vi-dem/
   
 
 ## Oppgave 5: Håndtering av tidspress og planleggingsfellen
