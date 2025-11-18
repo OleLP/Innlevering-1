@@ -152,6 +152,3 @@ Sammenfattet kan man si at god kommunikasjon i dette prosjektet handler om mer e
 
 Wibe, I. (u.d.). NTNU. Hentet fra https://www.ntnu.no/documents/1268850643/1269328686/Effektiv+kommunikasjon+i+ledelse+av++team+eller+nettverk+-+Ingrid+Wibe.pdf/5b93e473-9a6f-4515-a155-80bfb8cfa362
 
-### Litteratur
-
-Project Management Institute. (2022, November). *The objective of timeboxing*. PMI: Disciplined Agile. https://www.pmi.org/disciplined-agile/the-objective-of-time-boxing
